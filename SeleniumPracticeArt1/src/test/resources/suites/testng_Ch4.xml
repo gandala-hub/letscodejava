@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+   <test name="Ch5_Tests">
+    <classes>
+      <class name="book.ch4.Ch4_Tests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
